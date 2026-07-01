@@ -10,9 +10,8 @@ html{
 }
 
 body{
-    background:rgba(255,255,255,.6);
+    background:rgba(102, 31, 31, 0.214);
     color:#0F172A;
-    backdrop-filter:blur(15px);
 }
 
 /* Header */
